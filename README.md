@@ -1,2 +1,2 @@
-# wordlist
-WordList For Password- BruteForce
+# wordList
+WordList For Password-BruteForce
